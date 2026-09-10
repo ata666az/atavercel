@@ -22,8 +22,8 @@ const NEZHA_SERVER = process.env.NEZHA_SERVER || '';
 const NEZHA_KEY = process.env.NEZHA_KEY || '';             
 const DOMAIN = process.env.DOMAIN || 'your-domain.com';    
 const AUTO_ACCESS = process.env.AUTO_ACCESS || false;      
-const SUB_PATH = process.env.SUB_PATH || 'vercel';           
-const NAME = process.env.NAME || 'Vercel';                       
+const SUB_PATH = process.env.SUB_PATH || 'ata';           
+const NAME = process.env.NAME || 'VERCEL';                       
 const PORT = process.env.PORT || 3000;                    
 
 // NZ-Agent
